@@ -1,0 +1,18 @@
+{
+  "name": "pixelrealm",
+  "version": "0.1.0",
+  "description": "A 2D 8-bit pixel RPG blending RuneScape, Terraria, D&D, and Wynncraft",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.88.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "vite": "^6.0.7"
+  }
+}
